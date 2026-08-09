@@ -6,6 +6,7 @@ as you can. Features power-ups like slow motion, double score, extra
 time, and extra lives.
 
 Built as a personal project to learn game development with Pygame.
+The app has been deployed download the app.zip folder to play.
 
 ## How to Play
 - Download ZapShot-mac.zip from Releases
