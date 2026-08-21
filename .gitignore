@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# PyInstaller / Build outputs
+build/
+dist/
+*.zip
+*.app/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
